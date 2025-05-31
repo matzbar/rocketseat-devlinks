@@ -34,4 +34,8 @@
  <li>Instalar e configurar GIT</li>
  <li>Configurar Terminal no VSCode</li>
  <li>git help config</li>
+ <li>configurar chave ssh:</li>
+ <li>https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent</li>
+ <li>https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases</li>
+ <li>https://www.youtube.com/watch?v=en1dycYtL48&list=PLylCwvNCtoanYEIC4OBMO2hfB-ihCSv9Y&index=2</li>
 </ul>
